@@ -5,8 +5,8 @@
 VicandisLux rents simultaneous-interpretation systems and professional sound,
 video and streaming equipment for conferences, corporate and institutional
 events across the Republic of Moldova. Delivery, installation and on-site
-technical support are included. Founded 2018; up to 32 interpretation channels;
-ISO 4043 booths; prepared for public-procurement tenders.
+technical support are included. Founded 2007; up to 16 interpretation channels;
+ISO 4043 booths; experienced with public institutions and international organisations.
 
 ## Languages
 - Romanian (primary): https://rusu-cristian.github.io/vicandislux-preview/ro/
@@ -17,7 +17,7 @@ ISO 4043 booths; prepared for public-procurement tenders.
 - Services — simultaneous interpretation, sound, hybrid & streaming, video, technical staff: https://rusu-cristian.github.io/vicandislux-preview/en/#servicii
 - Equipment catalogue: https://rusu-cristian.github.io/vicandislux-preview/en/#echipamente
 - Quote configurator with a live estimate: https://rusu-cristian.github.io/vicandislux-preview/en/#configurator
-- For public tenders — supplier dossier, downloadable eligibility documents, references: https://rusu-cristian.github.io/vicandislux-preview/en/#licitatii
+- References — projects and experience with public institutions and international organisations: https://rusu-cristian.github.io/vicandislux-preview/en/#referinte
 - Pricing — indicative packages and per-category day rates: https://rusu-cristian.github.io/vicandislux-preview/en/#preturi
 - Case studies: https://rusu-cristian.github.io/vicandislux-preview/en/#studii
 - FAQ: https://rusu-cristian.github.io/vicandislux-preview/en/#faq
