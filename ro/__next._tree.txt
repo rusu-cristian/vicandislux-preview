@@ -1,4 +1,4 @@
-:HL["/vicandislux-preview/_next/static/chunks/15b6kxxyr80bj.css","style"]
+:HL["/vicandislux-preview/_next/static/chunks/2l_jzjjrgvdsy.css","style"]
 :HC["/",""]
 :HL["/vicandislux-preview/brand/vicandislux-logo.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ro","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"co7VBlXv5INofqcvTj9Fm"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ro","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"w6Geva4RGltCngQ3MMkV3"}
