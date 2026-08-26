@@ -3,4 +3,4 @@
 :HL["https://rusu-cristian.github.io/vicandislux-preview/brand/hero-conferinta.jpg","image",{"fetchPriority":"high","imageSrcSet":"https://rusu-cristian.github.io/vicandislux-preview/brand/hero-conferinta-800.jpg 800w, https://rusu-cristian.github.io/vicandislux-preview/brand/hero-conferinta.jpg 1600w","imageSizes":"100vw"}]
 :HL["/vicandislux-preview/brand/vicandislux-logo.webp","image"]
 :HL["/vicandislux-preview/brand/mimir.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ttCIX3u8eCtXZVFRJmt3i"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MkEemk_6Iy-2oDeVJyJuG"}
